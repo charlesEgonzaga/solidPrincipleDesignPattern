@@ -11,3 +11,5 @@ Your solution should not violate other SOLID principles.
 Create a repository in your GitHub account. Put your solution there. In the readMe file must include the problem statement, UML Class Diagram of Proposed solution.
 
 Make sure you have a TestProgram that will validate the proposed refactored codes.
+
+![1234s](https://github.com/charlesEgonzaga/solidPrincipleDesignPattern/assets/142955651/a859d403-6f3f-40a5-99c4-a98e9b47b58c)
